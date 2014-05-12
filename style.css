@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  background: #222;
+}
+h1 {
+  color: #777;
+  -webkit-font-smoothing: antialiased;
+  position: fixed;
+  top: 5px;
+  line-height: 0;
+  font-size: 26px;
+}
+#map { position:absolute; top:50px; bottom:0; width:100%; }
